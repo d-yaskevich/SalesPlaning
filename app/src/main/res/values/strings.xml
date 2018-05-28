@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SALES PLANING</string>
+
+    <string name="title_month">Month</string>
+    <string name="title_day">Day</string>
+    <string name="title_persons">Persons</string>
+</resources>
